@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "upstream": "https://github.com/Leonxlnx/taste-skill",
+  "source": "https://github.com/Leonxlnx/taste-skill/blob/3c7017d636c3a4aad378433ea6d0cfa6c921da4a/skills/taste-skill/SKILL.md",
+  "commit": "3c7017d636c3a4aad378433ea6d0cfa6c921da4a",
+  "release": "v2 experimental",
+  "license": "MIT",
+  "packagingVersion": "1.0.0",
+  "bytes": 87252,
+  "lines": 1206,
+  "sha256": "fc6760a09148f089f8c9343ef6869081817f1555de40872335a4927d2a790154",
+  "files": [
+    {
+      "file": "upstream-00.md",
+      "title": "Original frontmatter and scope",
+      "bytes": 588,
+      "sha256": "726107d16590a94ae21535611b1cb4897a441d8cf00f84d303ffc2ef91df6d1f"
+    },
+    {
+      "file": "upstream-01.md",
+      "title": "0. BRIEF INFERENCE (Read the Room Before Anything Else)",
+      "bytes": 2671,
+      "sha256": "4a03d1d2728673ca5077986e4dae59fca2ad3cd45cf9abdb7587893f87cdff82"
+    },
+    {
+      "file": "upstream-02.md",
+      "title": "1. THE THREE DIALS (Core Configuration)",
+      "bytes": 1853,
+      "sha256": "801b82144caf95ce9bb8085372e64992b3e23cdb85469c54fcd9d5b1ce29f084"
+    },
+    {
+      "file": "upstream-03.md",
+      "title": "2. BRIEF → DESIGN SYSTEM MAP",
+      "bytes": 3275,
+      "sha256": "ac1a5a970a84f6bc40f02e4f89ef6da50f8ed6eedc6fb1ae9981662ccdf9a859"
+    },
+    {
+      "file": "upstream-04.md",
+      "title": "3. DEFAULT ARCHITECTURE & CONVENTIONS",
+      "bytes": 3167,
+      "sha256": "c66ce92fa2efa7d5ec235b0113da08389a7c86f7efb7170b5582b1d232b4fd39"
+    },
+    {
+      "file": "upstream-05.md",
+      "title": "4. DESIGN ENGINEERING DIRECTIVES (Bias Correction)",
+      "bytes": 24901,
+      "sha256": "1729f1ce25dbf36d406eee5da4fec6844116e7ff51fe576d1b1e848157102310"
+    },
+    {
+      "file": "upstream-06.md",
+      "title": "5. CONTEXT-AWARE PROACTIVITY",
+      "bytes": 8714,
+      "sha256": "4fa88e9e604a994721ef9e442e6efc8beec8c85b6294aef45213663dd0495d13"
+    },
+    {
+      "file": "upstream-07.md",
+      "title": "6. PERFORMANCE & ACCESSIBILITY GUARDRAILS",
+      "bytes": 2128,
+      "sha256": "f9d14be480a9da19e7ba4a1092e52a1dc584ecaa5e621e9b5f507f27b21b1690"
+    },
+    {
+      "file": "upstream-08.md",
+      "title": "7. DIAL DEFINITIONS (Technical Reference)",
+      "bytes": 1614,
+      "sha256": "92eda98f687850eae45417d7ce2a77257b3e95f496ba657f8dca71c6e28ce118"
+    },
+    {
+      "file": "upstream-09.md",
+      "title": "8. DARK MODE PROTOCOL",
+      "bytes": 1449,
+      "sha256": "f4ec062c9848207c52d45545631ae13ca9d17983edf8fabd9639360f883b772d"
+    },
+    {
+      "file": "upstream-10.md",
+      "title": "9. AI TELLS (Forbidden Patterns)",
+      "bytes": 11940,
+      "sha256": "cae326bf75fb69185592813daac259f6234be2f8636d4a01fb91ba96d5c93cbb"
+    },
+    {
+      "file": "upstream-11.md",
+      "title": "10. REFERENCE VOCABULARY (Pattern Names the Agent Should Know)",
+      "bytes": 4296,
+      "sha256": "243baf44f7dba3e5e668e1d5b0db0f98f6bcd84f7d84aa2020d3dc94b41a8f36"
+    },
+    {
+      "file": "upstream-12.md",
+      "title": "11. REDESIGN PROTOCOL",
+      "bytes": 3291,
+      "sha256": "491f0d8aee669b3f3a0b06cf3911e560df9dbc652c8fccb3d1904d93e8483ec2"
+    },
+    {
+      "file": "upstream-13.md",
+      "title": "12. THE BLOCK LIBRARY (Contract - Implementations Land Here Iteratively)",
+      "bytes": 2053,
+      "sha256": "1cc553c632eab1409174b511c21a747ce59b35b628dcaaef54fa79e0703430ce"
+    },
+    {
+      "file": "upstream-14.md",
+      "title": "13. OUT OF SCOPE",
+      "bytes": 697,
+      "sha256": "7b69a35b7ea1b3a20491bb5c1cebea0590ea7a6f4d62e70273ea12ac229b1f1b"
+    },
+    {
+      "file": "upstream-15.md",
+      "title": "14. FINAL PRE-FLIGHT CHECK",
+      "bytes": 7410,
+      "sha256": "afd89b8bad7d88082d050a76ef0cebaffff7c4fb3f31be9f476f76563c3566e3"
+    },
+    {
+      "file": "upstream-16.md",
+      "title": "Appendix A - Install Commands per Design System",
+      "bytes": 1167,
+      "sha256": "e680860b812289b5fd5a59081aaea7f4e2c64ad2c1b634cb13957447a3641a79"
+    },
+    {
+      "file": "upstream-17.md",
+      "title": "Appendix B - Canonical Sources (read these before reinventing)",
+      "bytes": 2961,
+      "sha256": "ac20f3527504945045475f4b7a0f5f76ad87dd17cd3571d63a9d839403a830f3"
+    },
+    {
+      "file": "upstream-18.md",
+      "title": "Appendix C - Apple Liquid Glass: Honest Web Approximation",
+      "bytes": 3077,
+      "sha256": "0587a35c52c9a138a667371c42ec52443e57bea2c024ca70aabc88e5fb87b712"
+    }
+  ]
+}
