@@ -1,0 +1,2 @@
+# Preserve the exact bytes used by rebuild.mjs integrity checks on every platform.
+* text=auto eol=lf
